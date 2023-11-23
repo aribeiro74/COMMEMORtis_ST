@@ -1,40 +1,9 @@
-# Timelink source file repository
+## Source collections included in this repository - Livro de Aniversários de Santiago de Coimbra [14th and 15th centuries]
 
-This directory contains source files in kleio notation collected in the scope of the Timelink/MHK project.
+This directory contains source files in kleio notation collected in Livro de Aniversários de Santiago de Coimbra [14th and 15th centuries] is a  manuscript that was produced in the Collegiate of Santiago of Coimbra. The document allows the collection of a countless elements to enhance knowledge of the socioeconomic life of the city under consideration and the relationship of the Christians in regard to death and the heavenly home. We emphasize the delivery of goods and money to Santiago clergy as a pledge for several ceremonies intended for the forgiveness of sins.
 
-## Usage
+This obituary is one of the main features of COMMEMOrtis Project. This project aims to tool collect and analyze data, using The Timelink system, from wills, post mortem donations, obituaries and anniversary books and test its effectiveness in a digital approach to reconstruct parish communities, focused on individuals and their family, professional and clientele contextualizations.
 
-This repository should be forked to a new repository with the name of the new community project. 
-### Create a new repository on GitHub based on a template
-
-This is the recommended procedure. It will create a repository with the recommended structure, including documentation.
-
-You need an account with [GitHub](https://github.com).
-
-1. Go to the [timelink-sources-template](https://github.com/joaquimrcarvalho/timelink-sources-template) repository on GitHub.
-2. Press the green button "Use this template".
-3. Choose a new name for your sources' repository
-
-Full instructions at: [https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template]
-
-
-
-
-## What is Timelink?
-
-Timelink, formerly known as MHK (Micro History with Kleio) is an information system designed for processing person related information collected from historical sources. 
-
-Timelink provides:
-
-* a notation (kleio) for textual transcription of historical sources, capable of capturing complex information about people and their relations in any type of historical documents.
-* a text processor that extracts information from the kleio transcriptions, infers personal attributes and relations from agent roles in historical events and generates data in formats suitable for database import.
-* a database management system capable of processing time varying attributes and relations, assist in reconstructing biographies and networks from fragmentary information.
-
-Timelink is open source MIT License software available at http://github.com/joaquimrcarvalho/timelink
-
-## Source collections included in this repository
-
-* **Describe this repository collections here ****
 
 ## License
 
@@ -50,4 +19,23 @@ _Files in this repository are covered by the Creative Commons
 Attribution-NonCommmercial-ShareAlike 4.0 International_
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
+## What is Timelink?
+
+Timelink, formerly known as MHK (Micro History with Kleio) is an information system designed for processing person related information collected from historical sources. 
+
+Timelink provides:
+
+* a notation (kleio) for textual transcription of historical sources, capable of capturing complex information about people and their relations in any type of historical documents.
+* a text processor that extracts information from the kleio transcriptions, infers personal attributes and relations from agent roles in historical events and generates data in formats suitable for database import.
+* a database management system capable of processing time varying attributes and relations, assist in reconstructing biographies and networks from fragmentary information.
+
+Timelink is open source MIT License software available at http://github.com/joaquimrcarvalho/timelink
+
+
+
+
+
 
