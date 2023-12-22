@@ -1,0 +1,980 @@
+kleio$gacto2.str/translator=authorities/obs=Generated from database commerst by user commerst, file date: +2023-12-12 Timestamp:2023-12-12T14:13:56.395Z
+
+   identifications$real-entities-commerst/Real entities, including real persons and real objects
+      /dbase=commerst
+      /user=commerst
+      /date=20231212
+      /mode=backup
+
+      rperson$rp-10/Afonso Anes/m/status=N
+         occ$A17-1712
+         occ$B26-2606
+         occ$D2607-2607
+         occ$E0709-0709
+         occ$E0712-0712
+         occ$F24-2403
+
+      rperson$rp-74/Afonso Anes/m/status=N
+         occ$A5-0502-per1
+         occ$F27-2701
+
+      rperson$rp-1/Afonso Goncalves/m/status=N
+         occ$A3007-3007
+         occ$aniverD2108-per1
+         occ$D2209-2209
+         occ$F2710-2710
+
+      rperson$rp-11/Afonso Peres/m/status=N
+         occ$B3-0304
+         occ$C17-1701
+         occ$C21-2102
+         occ$D3-0305
+         occ$F3b-0303
+
+      rperson$rp-12/Afonso Rodrigues/m/status=N
+         occ$A18-1806
+         occ$B2009-2009
+         occ$B22-2205
+         occ$D19-1904
+
+      rperson$rp-13/Alberto Anes/m/status=N
+         occ$A5-0502
+         occ$A5-0503
+         occ$B05-0506
+         occ$D05-0507
+         occ$D5-0504
+
+      rperson$rp-44/Aldonca Fernandes/f/status=N
+         occ$B12-1206
+         occ$C21-2103
+         occ$D12-1204
+
+      rperson$rp-14/Alvaro Anes/m/status=N
+         occ$F1-0601
+         occ$F5-0505
+
+      rperson$rp-15/Alvaro Goncalves/m/status=N
+         occ$A05-0511
+         occ$B1311-1311
+         occ$E2-0202
+
+      rperson$rp-81/Antoninho Fernandes/m/status=N
+         occ$B8-0805-per1
+         occ$C2708-2708-per1
+         occ$D26-2604-per1
+         occ$F23-2306
+         occ$G23-2312-per1
+
+      rperson$rp-16/Antonio Fernandes/m/status=N
+         occ$E20-2004
+         occ$G22-2204
+
+      rperson$rp-17/Aparício Anes/m/status=N
+         occ$A30-3004
+         occ$B18-1812
+         occ$B2310-2310
+         occ$C1411-1411
+         occ$C24-2401
+         occ$C30-3005
+         occ$E2908-2908
+         occ$F07-0707
+         occ$F30-3006
+         occ$F31-3103
+         occ$G30-3009
+
+      rperson$rp-18/Arnaldo del Poche/m/status=N
+         occ$aniverA2c-per1
+         occ$aniverB2-per1
+         occ$D02-0208
+         occ$G0212-0212
+
+      rperson$rp-45/Beatriz Peres/f/status=N
+         occ$A0313-0312
+         occ$A06-0608
+         occ$aniverA9-per1
+         occ$B03-0307
+         occ$C14-1402
+         occ$C14-1403
+         occ$D10-1005
+         occ$E05-0510
+         occ$F03-0311
+         occ$F09-0906
+         occ$G1109-1109
+         occ$G7-0701
+
+      rperson$rp-19/Bernardo Martins/m/status=N
+         occ$A22-2201
+         occ$A2910-2910
+         occ$aniver-jan-bernardo05
+         occ$B04-0409
+         occ$B10-1007
+         occ$C04-0407
+         occ$C0512-0512
+         occ$D21-2106
+         occ$F04-0408
+         occ$F06-0610
+         occ$G03-0306
+         occ$G14-1401
+         occ$G21-2101
+         occ$G2207-2207
+         occ$G4-0403
+         occ$G4-0404
+         occ$G4-0405
+
+      rperson$rp-7/Briolanja domingues/f/status=N
+         occ$aniverE1508-per1
+         occ$C07-0711
+
+      rperson$rp-46/Catarina domingues/f/status=N
+         occ$A14-140502
+         occ$aniverE27-per1
+
+      rperson$rp-47/Catarina Esteves/f/status=N
+         occ$A05-051102
+         occ$E2-020202
+
+      rperson$rp-48/Catarina Fernandes/f/status=N
+         occ$E02-0211
+         occ$E29-290602
+
+      rperson$rp-49/Catarina Lopes/f/status=N
+         occ$aniverE20-per1
+         occ$G22-220402
+
+      rperson$rp-50/Catarina Peres/f/status=N
+         occ$A1607-1607
+         occ$D0708-0708
+
+      rperson$rp-6/Colegiada de Santiago de Coimbra/m/status=N
+         occ$aniverD1408-per1
+         occ$CST-2309
+         occ$CSTC-0101
+         occ$CSTC-0102
+         occ$CSTC-0103
+         occ$CSTC-0104
+         occ$CSTC-0105
+         occ$CSTC-0106
+         occ$CSTC-0107
+         occ$CSTC-0108
+         occ$CSTC-0109
+         occ$CSTC-0110
+         occ$CSTC-0111
+         occ$CSTC-0112
+         occ$CSTC-0201
+         occ$CSTC-0202
+         occ$CSTC-0203
+         occ$CSTC-0204
+         occ$CSTC-0205
+         occ$CSTC-0206
+         occ$CSTC-0207
+         occ$CSTC-0208
+         occ$CSTC-0209
+         occ$CSTC-0210
+         occ$CSTC-0211
+         occ$CSTC-0212
+         occ$CSTC-0301
+         occ$CSTC-0302
+         occ$CSTC-0303
+         occ$CSTC-0304
+         occ$CSTC-0305
+         occ$CSTC-0306
+         occ$CSTC-0307
+         occ$CSTC-0308
+         occ$CSTC-0309
+         occ$CSTC-0310
+         occ$CSTC-0311
+         occ$CSTC-0312
+         occ$CSTC-0401
+         occ$CSTC-0402
+         occ$CSTC-0403
+         occ$CSTC-0404
+         occ$CSTC-0405
+         occ$CSTC-0406
+         occ$CSTC-0407
+         occ$CSTC-0408
+         occ$CSTC-0409
+         occ$CSTC-0410
+         occ$CSTC-0411
+         occ$CSTC-0412
+         occ$CSTC-0502
+         occ$CSTC-0503
+         occ$CSTC-0504
+         occ$CSTC-0505
+         occ$CSTC-0506
+         occ$CSTC-0507
+         occ$CSTC-0508
+         occ$CSTC-0508c
+         occ$CSTC-0509
+         occ$CSTC-0510
+         occ$CSTC-0511
+         occ$CSTC-0512
+         occ$CSTC-0601
+         occ$CSTC-0602
+         occ$CSTC-0603
+         occ$CSTC-0604
+         occ$CSTC-0605
+         occ$CSTC-0606
+         occ$CSTC-0607
+         occ$CSTC-0608
+         occ$CSTC-0608c
+         occ$CSTC-0609
+         occ$CSTC-0610
+         occ$CSTC-0612
+         occ$CSTC-0701
+         occ$CSTC-0702
+         occ$CSTC-0703
+         occ$CSTC-0704
+         occ$CSTC-0705
+         occ$CSTC-0706
+         occ$CSTC-0707
+         occ$CSTC-0708
+         occ$CSTC-0709
+         occ$CSTC-0710
+         occ$CSTC-0711
+         occ$CSTC-0712
+         occ$CSTC-0801
+         occ$CSTC-0802
+         occ$CSTC-0803
+         occ$CSTC-0804
+         occ$CSTC-0805
+         occ$CSTC-0806
+         occ$CSTC-0807
+         occ$CSTC-0808
+         occ$CSTC-0810
+         occ$CSTC-0811
+         occ$CSTC-0812
+         occ$CSTC-0901
+         occ$CSTC-0902
+         occ$CSTC-0903
+         occ$CSTC-0905
+         occ$CSTC-0906
+         occ$CSTC-0907
+         occ$CSTC-0908
+         occ$CSTC-0910
+         occ$CSTC-0911
+         occ$CSTC-0912
+         occ$CSTC-1001
+         occ$CSTC-1002
+         occ$CSTC-1003
+         occ$CSTC-1004
+         occ$CSTC-1005
+         occ$CSTC-1006
+         occ$CSTC-1007
+         occ$CSTC-1008
+         occ$CSTC-1009
+         occ$CSTC-1010
+         occ$CSTC-1011
+         occ$CSTC-1012
+         occ$CSTC-1101
+         occ$CSTC-1102
+         occ$CSTC-1103
+         occ$CSTC-1104
+         occ$CSTC-1105
+         occ$CSTC-1106
+         occ$CSTC-1107
+         occ$CSTC-1108
+         occ$CSTC-1109
+         occ$CSTC-1110
+         occ$CSTC-1111
+         occ$CSTC-1112
+         occ$CSTC-1201
+         occ$CSTC-1202
+         occ$CSTC-1203
+         occ$CSTC-1204
+         occ$CSTC-1205
+         occ$CSTC-1206
+         occ$CSTC-1207
+         occ$CSTC-1208
+         occ$CSTC-1209
+         occ$CSTC-1210
+         occ$CSTC-1211
+         occ$CSTC-1212
+         occ$CSTC-1301
+         occ$CSTC-1303
+         occ$CSTC-1304
+         occ$CSTC-1305
+         occ$CSTC-1306
+         occ$CSTC-1307
+         occ$CSTC-1308
+         occ$CSTC-1309
+         occ$CSTC-1310
+         occ$CSTC-1311
+         occ$CSTC-1312
+         occ$CSTC-1401
+         occ$CSTC-1402
+         occ$CSTC-1403
+         occ$CSTC-1404
+         occ$CSTC-1405
+         occ$CSTC-1406
+         occ$CSTC-1407
+         occ$CSTC-1409
+         occ$CSTC-1410
+         occ$CSTC-1411
+         occ$CSTC-1412
+         occ$CSTC-1501
+         occ$CSTC-1502
+         occ$CSTC-1503
+         occ$CSTC-1504
+         occ$CSTC-1505
+         occ$CSTC-1506
+         occ$CSTC-1507
+         occ$CSTC-1508
+         occ$CSTC-1509
+         occ$CSTC-1510
+         occ$CSTC-1511
+         occ$CSTC-1512
+         occ$CSTC-16006
+         occ$CSTC-1601
+         occ$CSTC-1602
+         occ$CSTC-1603
+         occ$CSTC-1604
+         occ$CSTC-1605
+         occ$CSTC-1607
+         occ$CSTC-1608
+         occ$CSTC-1609
+         occ$CSTC-1610
+         occ$CSTC-1611
+         occ$CSTC-1612
+         occ$CSTC-1701
+         occ$CSTC-1702
+         occ$CSTC-1703
+         occ$CSTC-1704
+         occ$CSTC-1705
+         occ$CSTC-1706
+         occ$CSTC-1707
+         occ$CSTC-1708
+         occ$CSTC-1709
+         occ$CSTC-1710
+         occ$CSTC-1711
+         occ$CSTC-1712
+         occ$CSTC-1801
+         occ$CSTC-1802
+         occ$CSTC-1803
+         occ$CSTC-1804
+         occ$CSTC-1805
+         occ$CSTC-1806
+         occ$CSTC-1807
+         occ$CSTC-1808
+         occ$CSTC-1809
+         occ$CSTC-1810
+         occ$CSTC-1811
+         occ$CSTC-1812
+         occ$CSTC-1901
+         occ$CSTC-1902
+         occ$CSTC-1903
+         occ$CSTC-1904
+         occ$CSTC-1905
+         occ$CSTC-1906
+         occ$CSTC-1907
+         occ$CSTC-1908
+         occ$CSTC-1909
+         occ$CSTC-1910
+         occ$CSTC-1911
+         occ$CSTC-1912
+         occ$CSTC-2002
+         occ$CSTC-2003
+         occ$CSTC-2004
+         occ$CSTC-2005
+         occ$CSTC-2006
+         occ$CSTC-2007
+         occ$CSTC-2008
+         occ$CSTC-2009
+         occ$CSTC-2010
+         occ$CSTC-2011
+         occ$CSTC-2012
+         occ$CSTC-2101
+         occ$CSTC-2102
+         occ$CSTC-2103
+         occ$CSTC-2104
+         occ$CSTC-2105
+         occ$CSTC-2106
+         occ$CSTC-2107
+         occ$CSTC-2108
+         occ$CSTC-2109
+         occ$CSTC-2110
+         occ$CSTC-2111
+         occ$CSTC-2112
+         occ$CSTC-2201
+         occ$CSTC-2203
+         occ$CSTC-2204
+         occ$CSTC-2205
+         occ$CSTC-2206
+         occ$CSTC-2207
+         occ$CSTC-2208
+         occ$CSTC-2209
+         occ$CSTC-2210
+         occ$CSTC-2211
+         occ$CSTC-2212
+         occ$CSTC-2301
+         occ$CSTC-2303
+         occ$CSTC-2304
+         occ$CSTC-2305
+         occ$CSTC-2306
+         occ$CSTC-2307
+         occ$CSTC-2308
+         occ$CSTC-2310
+         occ$CSTC-2311
+         occ$CSTC-2312
+         occ$CSTC-2401
+         occ$CSTC-2403
+         occ$CSTC-2404
+         occ$CSTC-2405
+         occ$CSTC-2406
+         occ$CSTC-2407
+         occ$CSTC-2408
+         occ$CSTC-2409
+         occ$CSTC-2410
+         occ$CSTC-2411
+         occ$CSTC-2412
+         occ$CSTC-2501
+         occ$CSTC-2503
+         occ$CSTC-2504
+         occ$CSTC-2505
+         occ$CSTC-2506
+         occ$CSTC-2507
+         occ$CSTC-2509
+         occ$CSTC-2510
+         occ$CSTC-2511
+         occ$CSTC-2512
+         occ$CSTC-26006
+         occ$CSTC-2601
+         occ$CSTC-2603
+         occ$CSTC-2604
+         occ$CSTC-2605
+         occ$CSTC-2607
+         occ$CSTC-2608
+         occ$CSTC-2609
+         occ$CSTC-2610
+         occ$CSTC-2611
+         occ$CSTC-2701
+         occ$CSTC-2703
+         occ$CSTC-2704
+         occ$CSTC-2705
+         occ$CSTC-2706
+         occ$CSTC-2707
+         occ$CSTC-2708
+         occ$CSTC-2709
+         occ$CSTC-2710
+         occ$CSTC-2711
+         occ$CSTC-2712
+         occ$CSTC-2801
+         occ$CSTC-2803
+         occ$CSTC-2804
+         occ$CSTC-2805
+         occ$CSTC-2806
+         occ$CSTC-2807
+         occ$CSTC-2808
+         occ$CSTC-2809
+         occ$CSTC-2809c
+         occ$CSTC-2811
+         occ$CSTC-2812
+         occ$CSTC-2901
+         occ$CSTC-2903
+         occ$CSTC-2904
+         occ$CSTC-2905
+         occ$CSTC-2906
+         occ$CSTC-2907
+         occ$CSTC-2908
+         occ$CSTC-2909
+         occ$CSTC-2909c
+         occ$CSTC-2910
+         occ$CSTC-2911
+         occ$CSTC-2912
+         occ$CSTC-3001
+         occ$CSTC-3003
+         occ$CSTC-3004
+         occ$CSTC-3005
+         occ$CSTC-3006
+         occ$CSTC-3007
+         occ$CSTC-3009
+         occ$CSTC-3010
+         occ$CSTC-3011
+         occ$CSTC-3012
+         occ$CSTC-3101
+         occ$CSTC-3103
+         occ$CSTC-3105
+         occ$CSTC-3107
+         occ$CSTC-3110
+         occ$CSTC-3112
+         occ$CSTC-G2810-2810
+         occ$CTSC-0904
+
+      rperson$rp-20/Confrades do hospital dos alfaiates/m/status=N
+         occ$A2210-2210
+         occ$aniverC1409-per1
+         occ$aniverG10-per1
+         occ$B10-1004
+         occ$B24-2404
+         occ$D12-1207
+         occ$D2211-2211
+         occ$E0808-0808
+         occ$E14-1412
+         occ$G20-2005
+
+      rperson$rp-51/Constanca Esteves/f/status=N
+         occ$260602
+         occ$A17-171202
+         occ$D2607-260702
+         occ$E0712-071202
+
+      rperson$rp-52/Constanca Martins/f/status=N
+         occ$A2910-291002
+         occ$AC0512-051202
+         occ$aniverE5-per1-2
+         occ$aniverF06-per1
+         occ$aniverG14-per1
+         occ$B04-040902
+         occ$B10-100702
+         occ$C04-0407cm
+         occ$D21-210602
+         occ$F04-040802
+         occ$G03-030602
+         occ$G2207-220702
+         occ$G4-040302
+         occ$G4-040402
+         occ$G4-040502
+
+      rperson$rp-21/domingos Anes/m/status=N
+         occ$D1408-1408
+         occ$F2605
+
+      rperson$rp-22/Estevão Peres/m/status=N
+         occ$A29-2901
+         occ$aniverE2809-per1
+         occ$B2608-2608
+         occ$B29-2905
+         occ$C18-1804
+         occ$C2811-2811
+         occ$D28-2806
+         occ$E1812-2812
+         occ$E30-3003
+         occ$F28-2804
+         occ$G2907-2907
+
+      rperson$rp-75/Fernando Gomes/m/status=N
+         occ$A1911-191102
+         occ$F1011-fg
+
+      rperson$rp-23/Fernando Rodrigues/m/status=N
+         occ$A15-1501
+         occ$A1510-1510
+         occ$A1808-1808
+         occ$B15-1505
+         occ$D15-1502
+         occ$D15-1503
+         occ$D1511-1511
+         occ$F14-1404
+         occ$F15-1506
+         occ$F15-1512
+         occ$F1709-1709
+
+      rperson$rp-76/Francisco Anes/m/status=N
+         occ$C1308-1308
+         occ$G27-2705
+
+      rperson$rp-72/Gabriel Vicente/m/status=N
+         occ$B12-120602
+         occ$C21-210302
+         occ$D12-120402
+
+      rperson$rp-73/Gabriel Vicente/m/status=N
+         occ$A25-250602
+         occ$D24-240502
+         occ$E2610-2610
+
+      rperson$rp-8/Goncalo/m/status=N
+         occ$D2911-goncalo
+         occ$F22-2212
+
+      rperson$rp-24/Guilherme de Saint Gery/m/status=N/obs=No original Sancto Jurjo
+         occ$A21-2105
+         occ$aniverE6-per1
+         occ$B6-0602
+         occ$B6-0603
+         occ$C19-1912
+         occ$D1-0401
+         occ$D1907-1907
+         occ$E08-0806
+         occ$E1210-1210
+         occ$g6-0605
+
+      rperson$rp-53/Guiomar Afonso/f/status=N
+         occ$D18-1801
+         occ$F3-0302
+         occ$G0912-0912
+
+      rperson$rp-4/Guiomar Vicente/f/status=N
+         occ$A11-1106
+         occ$A12-1203
+         occ$A1211-1211
+         occ$B1112-1112
+         occ$B1309-1309
+         occ$C011-1104
+         occ$C11-1107
+         occ$D1110-1110
+         occ$D27-271202
+         occ$E11-1105
+         occ$E12-1201
+         occ$F16-160602
+         occ$F2308-230802
+         occ$G1008-1008
+         occ$G11-1102
+         occ$G1811-181103
+         occ$G2509-250903
+
+      rperson$rp-54/Ines Peres/f/status=N
+         occ$B1208-120802
+         occ$C31-311002
+         occ$E2208-220802
+         occ$E3011-301102
+
+      rperson$rp-55/Iria Peres/f/status=N
+         occ$aniverA1-per1
+         occ$D01-011102
+
+      rperson$rp-84/João Afonso/m/status=N
+         occ$C10-1001
+         occ$D11-1101
+
+      rperson$rp-25/João Anes de Vale de Todos/m/status=N/obs=e parentes
+         occ$D1509-1509
+         occ$D1810-1810
+         occ$E21-2112
+         occ$E2311-2311
+
+      rperson$rp-26/João de Coimbra/m/status=N
+         occ$A0313-031202
+         occ$A06-060802
+         occ$aniverD10-per1
+         occ$aniverG7-per1
+         occ$E05-05102
+         occ$F03-031102
+         occ$F09-090602
+         occ$G1109-110902
+
+      rperson$rp-27/João de Freitas/m/status=N
+         occ$E02-021102
+         occ$E29-2906
+
+      rperson$rp-77/João Fernandes/m/status=N
+         occ$A14-1405
+         occ$E27-2704
+
+      rperson$rp-78/João Galego/m/status=N
+         occ$B30-3001
+         occ$G18-1802
+
+      rperson$rp-5/João Panão/m/status=N
+         occ$A11-110602
+         occ$A12-120302
+         occ$A1211-121102
+         occ$A28-2805
+         occ$A8-0801-per1-2
+         occ$B1112-111202
+         occ$B17-1704
+         occ$B2011-2011
+         occ$C011-1104-per1
+         occ$C11-110702
+         occ$C16-1605
+         occ$C20-2006
+         occ$D1110-111002
+         occ$D13-1312
+         occ$D27-2712
+         occ$D2909-2909
+         occ$E11-110502
+         occ$E12-1201-per1
+         occ$E16-1602
+         occ$E19-1901
+         occ$F13-1301
+         occ$F2308-2308
+         occ$G1008-100802
+         occ$G11-1102-per1
+         occ$G1811-jp
+         occ$G2509-2509
+         occ$G4-0402
+
+      rperson$rp-79/João Panão/m/status=N
+         occ$B23-2301
+         occ$C2-0205
+         occ$C27-2706
+         occ$E1611-1611-per1-2
+         occ$F02-0206
+         occ$F21-2104
+         occ$G01-0107
+         occ$G8-0804
+
+      rperson$rp-28/Lopo Afonso/m/status=N
+         occ$A7-0705
+         occ$G2-0209
+
+      rperson$rp-56/Maria/f/status=N
+         occ$A1012-101202
+         occ$A12-120202
+         occ$A19-190202
+         occ$A1909-190902
+         occ$aniverC2111-per1
+         occ$B02-02102
+         occ$B0412-0412102
+         occ$B09-09102
+         occ$C05-050902
+         occ$C1212-121202
+         occ$C2808-200802
+         occ$D08-081102
+         occ$D20-201202
+         occ$D2808-280802
+         occ$E1609-160902
+         occ$E1910-191002
+         occ$F10-100202
+         occ$F1711-171102
+         occ$F2409-240902
+         occ$F2409-290902
+         occ$G1410-141002
+         occ$G16-161202
+         occ$G2110-211002
+
+      rperson$rp-57/Maria Afonso/f/status=N
+         occ$A19-1903
+         occ$C28-2803
+         occ$C2809-2809
+         occ$D29-2903
+         occ$E16-1603
+         occ$G18-1803
+
+      rperson$rp-58/Maria Anes/f/status=N
+         occ$B8-0805
+         occ$C2708-2708
+         occ$D26-2604
+         occ$F23-230602
+         occ$G23-2312
+
+      rperson$rp-59/Maria domingues/f/status=N
+         occ$C25-250402
+         occ$F012-011202
+
+      rperson$rp-60/Maria Esteves/f/status=N
+         occ$A8-0801
+         occ$C1010-1010
+         occ$C7-0702
+         occ$C7-0703
+         occ$D06-0609
+         occ$D0612-0612
+         occ$E1611-1611
+         occ$F7-0704
+
+      rperson$rp-61/Maria Fernandes/f/status=N
+         occ$E22-2206
+         occ$G2810-2810
+
+      rperson$rp-62/Marinha Afonso/f/status=N
+         occ$A0810-0810
+         occ$A1108-1108
+         occ$C2507-2507
+         occ$E06-0607
+         occ$F0812-0812
+         occ$g0710-0710
+
+      rperson$rp-63/Marinha Bartolomeu da Zouparria/f/status=N
+         occ$d22-2203
+         occ$E18-1805
+         occ$E2309-2309
+         occ$E9-0902
+         occ$F1310-1310
+
+      rperson$rp-64/Marinha Brava/f/status=N
+         occ$B17-170402
+         occ$C16-160504
+         occ$C20-200604
+         occ$D27-271204
+         occ$E16-160202
+         occ$F2308-230804
+         occ$G1811-181102
+
+      rperson$rp-29/Martim Afonso/m/status=N
+         occ$aniverD18-per1
+         occ$F3-030202
+         occ$G0912-091202
+
+      rperson$rp-30/Martim Anes/m/status=N
+         occ$D25-2501
+         occ$F0908-0809
+         occ$F2912-2912
+
+      rperson$rp-31/Martim Bravo/m/status=N
+         occ$C26-2612
+         occ$G25-2503
+
+      rperson$rp-32/Martim Cadarom/m/status=N
+         occ$A2307-2307
+         occ$B3107-3107
+         occ$C1807-18007
+         occ$D07-0706
+         occ$D14-1406
+         occ$E2707-2707
+         occ$F1407-1407
+         occ$G0608-0608
+         occ$G08-0807
+         occ$G1708-1708
+
+      rperson$rp-85/Miguel Peres/m/status=N
+         occ$C1710-1710
+         occ$F10-1003
+
+      rperson$rp-41/nome desconhecido/m/status=N
+         occ$B17-170404
+         occ$C16-160503
+         occ$C20-200603
+         occ$D27-271203
+         occ$E16-160204
+         occ$E19-1901-filho
+         occ$F2308-230803
+         occ$G1811-181104
+         occ$G2509-250904
+         occ$G4-040203
+
+      rperson$rp-42/nome desconhecido/m/status=N
+         occ$aniverA9-per2
+         occ$B03-030702
+         occ$C14-140202
+         occ$C14-140302
+
+      rperson$rp-43/nome desconhecido/m/status=N/obs=Todos os seus parentes
+         occ$aniverE21-per1-2
+         occ$aniverE2311-per1-2
+
+      rperson$rp-65/nome desconhecido/f/status=N
+         occ$B17-170403
+         occ$C16-160502
+         occ$C20-200602
+         occ$E16-160203
+         occ$E19-1901-mulher
+         occ$G4-040202
+
+      rperson$rp-66/nome desconhecido/f/status=N
+         occ$A09-090702
+         occ$aniverC9-per1
+         occ$C2109-210902
+         occ$E09-091102
+
+      rperson$rp-67/nome desconhecido/f/status=N
+         occ$A22-220102
+         occ$G21-210102
+
+      rperson$rp-83/nome desconhecido/m/status=N
+         occ$B17-170405
+         occ$C16-160505
+         occ$D27-271205
+         occ$F2308-230805
+         occ$G1811-181105
+         occ$G2509-250905
+
+      rperson$rp-33/Pedro Anes/m/status=N
+         occ$A1-0101
+         occ$B31-3101
+         occ$D01-0111
+
+      rperson$rp-34/Pedro de Alvito/m/status=N
+         occ$A1012-1012
+         occ$A12-1202
+         occ$A19-1902
+         occ$A1909-1909
+         occ$B02-0210
+         occ$B0412-0412
+         occ$B09-0910
+         occ$C05-0509
+         occ$C1212-1212
+         occ$C2111-pa
+         occ$C2808-2008
+         occ$D08-0811
+         occ$D20-2012
+         occ$D2808-2808
+         occ$E1609-1609
+         occ$E1910-1910
+         occ$F10-1002
+         occ$F1711-1711
+         occ$F2409-2409
+         occ$F2909-2909
+         occ$G1410-1410
+         occ$G16-1612
+         occ$G2110-2110
+
+      rperson$rp-35/Pedro Juliaes/m/status=N
+         occ$A01-0110
+         occ$A02-0207
+         occ$B1-0105
+         occ$C01-0108
+         occ$D04-0410
+         occ$D1b-0103
+         occ$E01-0106
+         occ$F01-0109
+         occ$G1-0104
+
+      rperson$rp-36/Pedro Lopes/m/status=N
+         occ$A25-2506
+         occ$B0508-0508
+         occ$B1908-1908
+         occ$D24-2405
+
+      rperson$rp-80/Rui Fernandes/m/status=N
+         occ$A09-0907
+         occ$aniverE1307-per1-2
+         occ$B9-0901
+         occ$C2109-2109
+         occ$C9-0905
+         occ$E09-0911
+         occ$E1307-130703
+         occ$E9-0903
+
+      rperson$rp-37/Sebastiao Fernandes/m/status=N
+         occ$A24-2412
+         occ$B16-1601
+         occ$B19-1906
+         occ$B2709-2709
+         occ$D8-0802
+         occ$E03-0308
+         occ$E13-1304
+         occ$F12-1205
+         occ$F17-1703
+         occ$F2807-2807
+
+      rperson$rp-69/Senhorinha domingues/f/status=N
+         occ$B27-2703
+         occ$F1608-1608
+
+      rperson$rp-70/Teresa/f/status=N
+         occ$A2307-230702
+         occ$aniverC0608-per1
+         occ$B3107-310702
+         occ$C1807-180702
+         occ$D07-070602
+         occ$D14-140602
+         occ$E2707-270702
+         occ$F1407-140702
+         occ$G08-0807te
+         occ$G1708-170802
+
+      rperson$rp-38/Vasco Anes Barbancho/m/status=N
+         occ$B1208-1208
+         occ$C31-3110
+         occ$E2208-2208
+         occ$E3011-3011
+
+      rperson$rp-39/Vasco Peres/m/status=N
+         occ$C13-1306
+         occ$G2511-2511
+
+      rperson$rp-40/Vasco Rodrigues/m/status=N
+         occ$C25-2504
+         occ$F0112-0112
+
+      rperson$rp-82/Vicente Esteves/m/status=N
+         occ$C1010-101002
+         occ$C7-070302
+         occ$D06-0609cl
+         occ$D0612-061202
+         occ$E1611-161102
+         occ$F7-070402
+
+      rperson$rp-71/Violante Alvares/f/status=N
+         occ$C1308-130802
+         occ$G27-270502
+
