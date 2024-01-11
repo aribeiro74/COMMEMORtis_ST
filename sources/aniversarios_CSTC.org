@@ -5,7 +5,7 @@ kleio$gacto2.str
 
          celebrado$Pedro Anes/id=A1-0101
             ls$cargo/almoxarife de Coimbra
-            ls$loc_sepultura/altar de Nossa Senhora Santa Ana/obs=Igreja de Santiago de Coimbra
+            ls$local_sepultura/altar de Nossa Senhora Santa Ana/obs=Igreja de Santiago de Coimbra
             ls$detalhes_sepultura/campa branca
 
          celebrada$Iria Peres/id=aniverA1-per1
@@ -26,7 +26,7 @@ kleio$gacto2.str
          celebrado$Arnaldo do Rio/id=aniverB2-per1
             ls$alcunha/do Rio
             ls$profissao/mercador
-            ls$loc_sepultura/altar de S. Tomás/obs=Igreja de Santiago
+            ls$local_sepultura/altar de S. Tomás/obs=Igreja de Santiago
             ls$detalhes_sepultura/campa da flor
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0201
@@ -82,7 +82,7 @@ kleio$gacto2.str
 
          celebrado$Bernardo Martins/id=aniver-jan-bernardo05
             ls$profissao/tabelião
-            ls$loc_sepultura/altar-mor
+            ls$local_sepultura/altar-mor
             ls$detalhes_sepultura/Na campa com Cruz de Espada
 
          celebrada$Constanca Martins/id=aniverE5-per1-2
@@ -100,7 +100,7 @@ kleio$gacto2.str
       inscricao$aniverF6/06/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl.1 (p.196)/sumario=inscrição de Aniversário de Álvaro Anes, sepultado a par da pia de água benta, no meio da igreja, por um olival em Coselhas.
 
          celebrado$Alvaro Anes/id=F1-0601
-            ls$loc_sepultura/A par da pia de água benta/obs=No meio da igreja
+            ls$local_sepultura/A par da pia de água benta/obs=No meio da igreja
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0601
 
@@ -116,12 +116,12 @@ kleio$gacto2.str
 
          celebrada$Beatriz Peres/id=G7-0701
             ls$profissao/Tendeira
-            ls$loc_sepultura/Capela de Santo Andre/obs=que é sua e de seus herdeiros com o sobredito encargo
+            ls$local_sepultura/Capela de Santo Andre/obs=que é sua e de seus herdeiros com o sobredito encargo
 
          celebrado$João de Coimbra/id=aniverG7-per1
             ls$alcunha/de Coimbra
             rel$parentesco/marido/Beatriz Peres/G7-0701
-            ls$loc_sepultura/Capela de Santo André/obs=que é sua e de seus herdeiros com o sobredito encargo
+            ls$local_sepultura/Capela de Santo André/obs=que é sua e de seus herdeiros com o sobredito encargo
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0701
 
@@ -152,13 +152,13 @@ kleio$gacto2.str
       inscricao$aniverA8/08/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl.1v (p.197)/sumario=inscrição de Aniversário de Maria Esteves, filha de Estêvão Anes, sepultada na campa a par de João Panão, contra a porta da Calçada, por umas casas contra Caneiro.
 
          celebrada$Maria Esteves/id=A8-0801
-            ls$loc_sepultura/Contra a porta da Calçada/obs=perto da sepultura de João Panão
+            ls$local_sepultura/Contra a porta da Calçada/obs=perto da sepultura de João Panão
 
             referido$Estevão Anes/id=A8-0801-per1
                rel$parentesco/Pai/Maria Esteves/A8-0801
 
             referido$João Panão/id=A8-0801-per1-2
-               ls$loc_sepultura/Contra a porta da Calçada
+               ls$local_sepultura/Contra a porta da Calçada
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0801
 
@@ -181,7 +181,7 @@ kleio$gacto2.str
 
          celebrado$Rui Fernandes/id=B9-0901
             ls$profissao/mercador
-            ls$loc_sepultura/Contra o coro/obs=No meio da igreja
+            ls$local_sepultura/Contra o coro/obs=No meio da igreja
             ls$detalhes_sepultura/campa das letras que tem uma marca no meio
 
          celebrada$Maria domingues/id=aniverB9-per1
@@ -200,7 +200,7 @@ kleio$gacto2.str
       inscricao$aniverC10/10/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl.1v (p.197)/sumario=inscrição de Aniversário de João Afonso, sepultado perto das duas campas ao pé do esteio da pia de água benta, por umas casas.
 
          celebrado$João Afonso/id=C10-1001
-            ls$loc_sepultura/pia de água benta/obs=Perto do esteio e das duas campas que aí estão
+            ls$local_sepultura/pia de água benta/obs=Perto do esteio e das duas campas que aí estão
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-1001
 
@@ -215,8 +215,8 @@ kleio$gacto2.str
 
          celebrado$João Afonso/id=D11-1101
             ls$cargo/almoxarife
-            ls$loc_sepultura/dentro da igreja
-            ls$loc_sepultura/altar de Santo Urbano/obs=Perto
+            ls$local_sepultura/dentro da igreja
+            ls$local_sepultura/altar de Santo Urbano/obs=Perto
             ls$detalhes_sepultura/No monumento que esta na parede
 
             referido$Afonso Fernandes/id=D11-110102
@@ -234,8 +234,8 @@ kleio$gacto2.str
       inscricao$aniverE12/12/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl.2 (p.197)/sumario=inscrição de Aniversário de Guiomar Vicente, mulher de João Panão, sepultada ante o altar de Santa Maria, na campa contra a pia de água benta.
 
          celebrada$Guiomar Vicente/id=E12-1201
-            ls$loc_sepultura/altar de Santa Maria/obs=Ante
-            ls$loc_sepultura/Pia de água benta/obs=Na campa contra
+            ls$local_sepultura/altar de Santa Maria/obs=Ante
+            ls$local_sepultura/Pia de água benta/obs=Na campa contra
 
             referido$João Panão/id=E12-1201-per1
                rel$parentesco/marido/Guiomar Vicente/E12-1201
@@ -252,7 +252,7 @@ kleio$gacto2.str
       inscricao$aniverF13/13/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl.2 (p.197)/sumario=inscrição de Aniversário de João Panão que jaz sepultado ante o altar de Nossa Senhora, na campa contra a Porta da Calçada.
 
          celebrado$João Panão/id=F13-1301
-            ls$loc_sepultura/altar de Nossa Senhora/obs=Ante
+            ls$local_sepultura/altar de Nossa Senhora/obs=Ante
             ls$detalhes_sepultura/na campa contra a porta da Calçada
 
             referido$Goncalo Anes/id=F13-130102
@@ -272,7 +272,7 @@ kleio$gacto2.str
 
          celebrado$Bernardo Martins/id=G14-1401
             ls$profissao/tabelião
-            ls$loc_sepultura/altar mor/obs=Ante
+            ls$local_sepultura/altar mor/obs=Ante
             ls$detalhes_sepultura/campa que tem a cruz
 
          celebrada$Constanca Martins/id=aniverG14-per1
@@ -290,7 +290,7 @@ kleio$gacto2.str
       inscricao$aniverA15/15/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl.2 (p.197)/sumario=inscrição de Aniversário de Fernando Rodrigues, sepultado no altar São Lourenço, no monumento levantado, por um olival no Alvor.
 
          celebrado$Fernando Rodrigues/id=A15-1501
-            ls$loc_sepultura/altar de São Lourenço/obs=Ante
+            ls$local_sepultura/altar de São Lourenço/obs=Ante
             ls$detalhes_sepultura/No monumento levantado/obs=No original: alavantado
 
             referido$Fernando Esteves/id=A15-150102
@@ -310,7 +310,7 @@ kleio$gacto2.str
          celebrado$Sebastiao Fernandes/id=B16-1601
             ls$titulo/clérigo de missa
             ls$cargo/beneficiado de Santiago
-            ls$loc_sepultura/escabelo de Nossa Senhora do Pranto/obs=No fundo
+            ls$local_sepultura/escabelo de Nossa Senhora do Pranto/obs=No fundo
             ls$detalhes_sepultura/campa
 
             referido$Isabel Fernandes/id=B16-160102
@@ -342,13 +342,13 @@ kleio$gacto2.str
 
          celebrado$Afonso Peres/id=C17-1701
             ls$profissao/mercador
-            ls$loc_sepultura/imagem de Santo Ildefonso/obs=Ante
-            ls$loc_sepultura/capela de Afonso domingues de Aveiro
+            ls$local_sepultura/imagem de Santo Ildefonso/obs=Ante
+            ls$local_sepultura/capela de Afonso domingues de Aveiro
 
          celebrada$nome desconhecido/id=aniverC17-per1-2
             rel$parentesco/mulher/Afonso Peres/C17-1701
-            ls$loc_sepultura/imagem de Santo Ildefonso/obs=Ante
-            ls$loc_sepultura/capela de Afonso domingues de Aveiro
+            ls$local_sepultura/imagem de Santo Ildefonso/obs=Ante
+            ls$local_sepultura/capela de Afonso domingues de Aveiro
 
             referido$Afonso domingues de Aveiro/id=C17-1701-per1
                ls$alcunha/de Aveiro
@@ -366,10 +366,10 @@ kleio$gacto2.str
       inscricao$aniverD18/18/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl.2v (p.198)/sumario=inscrição de Aniversário de Guiomar Afonso e de Martim Afonso, seu marido, sepultados no claustro, perto da porta pequena de costas para a estalagem.
 
          celebrada$Guiomar Afonso/id=D18-1801
-            ls$loc_sepultura/claustro/obs=Em direito da porta pequena contra a estalagem
+            ls$local_sepultura/claustro/obs=Em direito da porta pequena contra a estalagem
 
          celebrado$Martim Afonso/id=aniverD18-per1
-            ls$loc_sepultura/claustro/obs=Em direito da porta pequena contra a estalagem
+            ls$local_sepultura/claustro/obs=Em direito da porta pequena contra a estalagem
             rel$parentesco/marido/Guiomar Afonso/D18-1801
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-1801
@@ -385,15 +385,15 @@ kleio$gacto2.str
 
          celebrado$João Panão/id=E19-1901
             ls$profissao/mercador
-            ls$loc_sepultura/Porta principal/obs=Sobre os degraus junto com a parede no monumento mais alto contra a Praça
+            ls$local_sepultura/Porta principal/obs=Sobre os degraus junto com a parede no monumento mais alto contra a Praça
 
          celebrada$nome desconhecido/id=E19-1901-mulher
             rel$parentesco/mulher/João Panão/E19-1901
-            ls$loc_sepultura/porta principal/obs=Sobre os degraus junto com a parede no monumento mais alto contra a Praça
+            ls$local_sepultura/porta principal/obs=Sobre os degraus junto com a parede no monumento mais alto contra a Praça
 
          celebrado$nome desconhecido/id=E19-1901-filho
             rel$parentesco/filho/João Panão/E19-1901
-            ls$loc_sepultura/porta principal/obs=Sobre os degraus junto com a parede no monumento mais alto contra a Praça
+            ls$local_sepultura/porta principal/obs=Sobre os degraus junto com a parede no monumento mais alto contra a Praça
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-1901
 
@@ -407,7 +407,7 @@ kleio$gacto2.str
       inscricao$aniverG21/21/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl.2v (p.198)/sumario=inscrição de Aniversário de Bernardo Martins e de sua mulher, sepultados ante o altar mor, pelo lugar de Bera.
 
          celebrado$Bernardo Martins/id=G21-2101
-            ls$loc_sepultura/altar-mor
+            ls$local_sepultura/altar-mor
 
          celebrada$nome desconhecido/id=G21-210102
             rel$parentesco/mulher/Bernardo Martins/G21-2101
@@ -448,7 +448,7 @@ kleio$gacto2.str
 
          celebrado$João Panão/id=B23-2301
             ls$cargo/raçoeiro de Santiago de Coimbra
-            ls$loc_sepultura/altar de Nossa Senhora do Pranto
+            ls$local_sepultura/altar de Nossa Senhora do Pranto
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-2301
 
@@ -462,7 +462,7 @@ kleio$gacto2.str
       inscricao$aniverC24/24/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 3 (p.198)/sumario=inscrição de Aniversário de Aparício Anes, sepultado na campa da Espada, ante o altar-mor, pelas casas do Quintal.
 
          celebrado$Aparício Anes/id=C24-2401
-            ls$loc_sepultura/altar mor/obs=Ante
+            ls$local_sepultura/altar mor/obs=Ante
             ls$detalhes_sepultura/campa da Espada
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-2401
@@ -479,7 +479,7 @@ kleio$gacto2.str
 
          celebrado$Martim Anes/id=D25-2501
             ls$cargo/almoxarife de Coimbra
-            ls$loc_sepultura/altar de Nossa Senhora/obs=Ante
+            ls$local_sepultura/altar de Nossa Senhora/obs=Ante
             ls$detalhes_sepultura/campa junto com o altar de Sao Paulo
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-2501
@@ -508,7 +508,7 @@ kleio$gacto2.str
       inscricao$aniverF27/27/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 3 (p.199)/sumario=inscrição de Aniversário de Afonso Anes e de sua mulher, sepultados ao pé da pia de água benta.
 
          celebrado$Afonso Anes/id=F27-2701
-            ls$loc_sepultura/pia de água benta/obs=Perto da pia e das duas campas
+            ls$local_sepultura/pia de água benta/obs=Perto da pia e das duas campas
 
          celebrada$nome desconhecido/id=aniverF27-per1
             rel$parentesco/mulher/Afonso Anes/F27-2701
@@ -527,8 +527,8 @@ kleio$gacto2.str
          celebrado$domingas Anes de Pinhel/id=G28-2801
             ls$alcunha/de Pinhel
             ls$naturalidade/Pinhel
-            ls$loc_sepultura/claustro/obs=junto com a parede da igreja abaixo da porta do claustro
-            ls$loc_sepultura/ante o monumento alto
+            ls$local_sepultura/claustro/obs=junto com a parede da igreja abaixo da porta do claustro
+            ls$local_sepultura/ante o monumento alto
 
             referido$Vicente Vaz/id=G28-2801-per1
                rel$parentesco/marido/domingas Anes de Pinhel/G28-2801
@@ -562,8 +562,8 @@ kleio$gacto2.str
       inscricao$aniverB30/30/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 3 (p.199)/sumario=inscrição de Aniversário de João Galego, sepultado no altar de Santa Maria do Pranto, pelas casas que traz João Lourenço.
 
          celebrado$João Galego/id=B30-3001
-            ls$loc_sepultura/altar de Santa Maria do Pranto/obs=Ante
-            ls$loc_sepultura/na campa em direito do altar
+            ls$local_sepultura/altar de Santa Maria do Pranto/obs=Ante
+            ls$local_sepultura/na campa em direito do altar
 
             referido$João Lourenco/id=B30-300102
 
@@ -579,11 +579,11 @@ kleio$gacto2.str
       inscricao$aniverB31/31/01/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 3v (p.199)/sumario=inscrição de Aniversário de Pedro Anes e de sua mulher
 
          celebrado$Pedro Anes/id=B31-3101
-            ls$loc_sepultura/ut supra
+            ls$local_sepultura/ut supra
 
          celebrada$nome desconhecido/id=aniverB31-per1-2
             rel$parentesco/mulher/Pedro Anes/B31-3101
-            ls$loc_sepultura/ut supra
+            ls$local_sepultura/ut supra
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-3101
 
@@ -598,8 +598,8 @@ kleio$gacto2.str
 
          celebrado$Pedro João/id=D1-0102
             ls$cargo/almoxarife
-            ls$loc_sepultura/pia de água benta/obs=perto
-            ls$loc_sepultura/campa perto de Santa Ana
+            ls$local_sepultura/pia de água benta/obs=perto
+            ls$local_sepultura/campa perto de Santa Ana
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0102
 
@@ -613,13 +613,13 @@ kleio$gacto2.str
       inscricao$aniverE2/02/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 4 (p.200)/sumario=inscrição de Aniversário de Álvaro Gonçalves e sua mulher Catarina Esteves sepultados na perto da laranjeira em campa que tem a cruz
 
          celebrado$Alvaro Gonçalves/id=E2-0202
-            ls$loc_sepultura/claustro
-            ls$loc_sepultura/perto da laranjeira
+            ls$local_sepultura/claustro
+            ls$local_sepultura/perto da laranjeira
             ls$detalhes_sepultura/campa que tem a cruz
 
          celebrada$Catarina Esteves/id=E2-020202
-            ls$loc_sepultura/claustro
-            ls$loc_sepultura/perto da laranjeira
+            ls$local_sepultura/claustro
+            ls$local_sepultura/perto da laranjeira
             ls$detalhes_sepultura/campa que tem a cruz
             rel$parentesco/mulher/Alvaro Gonçalves/E2-0202
 
@@ -635,12 +635,12 @@ kleio$gacto2.str
       inscricao$aniverF3/03/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 4 (p.200)/sumario=inscrição de Aniversário de Guiomar Afonso e Martim Afonso seu marido sepultados no claustro à direita da porta pequena da estalagem
 
          celebrada$Guiomar Afonso/id=F3-0302
-            ls$loc_sepultura/claustro
-            ls$loc_sepultura/à direita da porta pequena da estalagem
+            ls$local_sepultura/claustro
+            ls$local_sepultura/à direita da porta pequena da estalagem
 
          celebrado$Martim Afonso/id=F3-030202
-            ls$loc_sepultura/claustro
-            ls$loc_sepultura/à direita da porta pequena da estalagem
+            ls$local_sepultura/claustro
+            ls$local_sepultura/à direita da porta pequena da estalagem
             rel$parentesco/marido/Guiomar Afonso/F3-0302
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0302
@@ -673,12 +673,12 @@ kleio$gacto2.str
       inscricao$aniverA5/05/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 4 (p.200)/sumario=inscrição de Aniversário de Alberto Anes sepultado perto da pia de água benta junto de Afonso Anes, por vinha e olival em Coselhas
 
          celebrado$Alberto Anes/id=A5-0502
-            ls$loc_sepultura/pia de água benta/obs=Junto da pia
-            ls$loc_sepultura/perto de Afonso Anes
+            ls$local_sepultura/pia de água benta/obs=Junto da pia
+            ls$local_sepultura/perto de Afonso Anes
             ls$detalhes_sepultura/entre duas campas
 
             referido$Afonso Anes/id=A5-0502-per1
-               ls$loc_sepultura/pia de água benta/obs=Junto da pia
+               ls$local_sepultura/pia de água benta/obs=Junto da pia
                ls$detalhes_sepultura/entre duas campas
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0502
@@ -699,7 +699,7 @@ kleio$gacto2.str
       inscricao$aniverB6/06/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 4v (p.200)/sumario=inscrição de Aniversário de Guilherme de Saint Gery, sepultado na Sé, por umas casas junto à igreja de Santiago.
 
          celebrado$Guilherme de Saint Gery/id=B6-0602
-            ls$loc_sepultura/Sé de Coimbra
+            ls$local_sepultura/Sé de Coimbra
             ls$alcunha/de Saint Gery
             ls$naturalidade/Saint Gery
 
@@ -716,8 +716,8 @@ kleio$gacto2.str
       inscricao$aniverC7/07/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 4v (p.200)/sumario=inscrição de Aniversário de Maria Esteves, filha de Estêvão Anes, escrivão na audiência do Bispo, sepultada na metade direita da igreja perto da pia de água benta em campa preta sarabulhenta.
 
          celebrada$Maria Esteves/id=C7-0702
-            ls$loc_sepultura/na metade da igreja
-            ls$loc_sepultura/pia de água benta/obs=À direita da pia
+            ls$local_sepultura/na metade da igreja
+            ls$local_sepultura/pia de água benta/obs=À direita da pia
             ls$detalhes_sepultura/campa preta e sarabulhenta
 
             referido$Estêvão Anes/id=C7-070202
@@ -754,7 +754,7 @@ kleio$gacto2.str
          celebrada$Marinha Bartolomeu da Zouparria/id=E9-0902
             ls$alcunha/da Zouparria
             ls$naturalidade/Zouparria
-            ls$loc_sepultura/escada do coro/obs=Perto da escada
+            ls$local_sepultura/escada do coro/obs=Perto da escada
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0902
 
@@ -789,8 +789,8 @@ kleio$gacto2.str
       inscricao$aniverG11/11/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 5 (p.200)/sumario=inscrição de Aniversário de Guiomar Vicente, mulher que foi de João Panão, mercador, sepultada no altar de Santa Maria a Prenhe contra a porta da Calçada.
 
          celebrada$Guiomar Vicente/id=G11-1102
-            ls$loc_sepultura/altar de Santa Marinha a Prenhe/obs=Ante
-            ls$loc_sepultura/campa contra a porta da Calçada
+            ls$local_sepultura/altar de Santa Marinha a Prenhe/obs=Ante
+            ls$local_sepultura/campa contra a porta da Calçada
 
             referido$João Panão/id=G11-1102-per1
                ls$profissao/mercador
@@ -827,9 +827,9 @@ kleio$gacto2.str
       inscricao$aniverB13/13/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 5 (p.200)/sumario=inscrição de Aniversário de Maria Afonso, mulher de domingos domingues, mercador, sepultada perto da Imagem de S. Cristóvão contra a porta da Calçada.
 
          celebrada$Maria Afonso/id=B13-1302
-            ls$loc_sepultura/Porta contra a Calçada
-            ls$loc_sepultura/Imagem de São Cristóvão/obs=Perto da imagem
-            ls$loc_sepultura/Pia de água benta/obs=Entre a pia e a imagem de S. Cristóvão
+            ls$local_sepultura/Porta contra a Calçada
+            ls$local_sepultura/Imagem de São Cristóvão/obs=Perto da imagem
+            ls$local_sepultura/Pia de água benta/obs=Entre a pia e a imagem de S. Cristóvão
 
             referido$domingos domingues/id=B13-1302-per1
                rel$parentesco/marido/Maria Afonso/B13-1302
@@ -863,7 +863,7 @@ kleio$gacto2.str
       inscricao$aniverD15/15/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 5 (p.201)/sumario=inscrição de Aniversário de Fernando Rodrigues, sepultado no altar de S. Lourenço no monumento alto, por olival em Alvor.
 
          celebrado$Fernando Rodrigues/id=D15-1502
-            ls$loc_sepultura/altar de São Lourenço
+            ls$local_sepultura/altar de São Lourenço
             ls$detalhes_sepultura/No monumento grande alto
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-1502
@@ -878,7 +878,7 @@ kleio$gacto2.str
       inscricao$aniverE16/16/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 5v (p.201)/sumario=inscrição de Aniversário de João Panão, sepultado na porta principal da igreja, no monumento alto sobre os degraus de fora, sua mulher, seu filho e Marinha Brava, por casas na rua dos Esporões.
 
          celebrado$João Panão/id=E16-1602
-            ls$loc_sepultura/Porta principal da Igreja
+            ls$local_sepultura/Porta principal da Igreja
             ls$detalhes_sepultura/No monumento alto sobre os degraus de fora
 
          celebrada$Marinha Brava/id=E16-160202
@@ -902,7 +902,7 @@ kleio$gacto2.str
       inscricao$aniverF17/17/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 5v (p.201)/sumario=inscrição de Aniversário de Senhorinha Esteves, mulher que foi de Afonso Anes da Lameira, sepultada perto da escada do coro na primeira campa branca, por uma metade de olival em Vale de Meão.
 
          celebrado$Senhorinha Esteves/id=F17-1702
-            ls$loc_sepultura/Perto da escada do coro
+            ls$local_sepultura/Perto da escada do coro
             ls$detalhes_sepultura/Na primeira campa branca
 
             referido$Afonso Anes da Lameira/id=F17-170202
@@ -926,7 +926,7 @@ kleio$gacto2.str
          celebrado$João Galego/id=G18-1802
             ls$alcunha/Galego
             ls$profissao/mercador
-            ls$loc_sepultura/altar de Santa Maria a Prenhe/obs=Ante
+            ls$local_sepultura/altar de Santa Maria a Prenhe/obs=Ante
             ls$detalhes_sepultura/campa a direita do altar
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-1802
@@ -963,8 +963,8 @@ kleio$gacto2.str
       inscricao$aniverB20/20/02/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 5v (p.201)/sumario=inscrição de Aniversário de domingas Anes de Pinhel mulher que foi de Vicente Vaz, tosador, sepultada no claustro perto do monumento alto, por casas em Olho do Lobo.
 
          celebrada$domingas Anes de Pinhel/id=B20-2002
-            ls$loc_sepultura/claustro/obs=Junto com a parede da igreja a fundo da porta do claustro
-            ls$loc_sepultura/ante o monumento alto
+            ls$local_sepultura/claustro/obs=Junto com a parede da igreja a fundo da porta do claustro
+            ls$local_sepultura/ante o monumento alto
             ls$alcunha/de Pinhel
             ls$naturalidade/Pinhel
 
@@ -1003,7 +1003,7 @@ kleio$gacto2.str
 
          celebrado$Pedro Juliaes/id=D1b-0103
             ls$cargo/almoxarife
-            ls$loc_sepultura/altar de Santa Ana
+            ls$local_sepultura/altar de Santa Ana
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0103
 
@@ -1017,7 +1017,7 @@ kleio$gacto2.str
       inscricao$aniverE2b/02/03/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 6 (p.201)/sumario=inscrição de Aniversário de domingas Anes, sepultada na escada do coro no monumento que está na parede, por um olival.
 
          celebrada$domingas Anes/id=E2b-0203
-            ls$loc_sepultura/escada do coro
+            ls$local_sepultura/escada do coro
             ls$detalhes_sepultura/no monumento que esta na parede
 
             referido$Afonso Fernandes/id=E2-020302
@@ -1066,8 +1066,8 @@ kleio$gacto2.str
       inscricao$aniverA5b/05/03/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 6 (p.202)/sumario=inscrição de Aniversário de Albertino Anes, sepultado perto da pia de água benta próximo a uma campa, por vinha em Coselhas
 
          celebrado$Albertino Anes/id=A5-0503
-            ls$loc_sepultura/na metade da igreja
-            ls$loc_sepultura/pia de água benta/obs=Perto da pia
+            ls$local_sepultura/na metade da igreja
+            ls$local_sepultura/pia de água benta/obs=Perto da pia
             ls$detalhes_sepultura/perto de uma campa
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0503
@@ -1085,7 +1085,7 @@ kleio$gacto2.str
          celebrado$Guilherme de Saint Gery/id=B6-0603
             ls$alcunha/de Saint Gery
             ls$naturalidade/Saint Gery
-            ls$loc_sepultura/Sé
+            ls$local_sepultura/Sé
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0603
 
@@ -1099,7 +1099,7 @@ kleio$gacto2.str
       inscricao$aniverC7b/07/03/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 6v (p.202)/sumario=inscrição de Aniversário de Maria Esteves, sergente do prior de Ansião, sepultada perto do altar de Santa Ana.
 
          celebrada$Maria Esteves/id=C7-0703
-            ls$loc_sepultura/na metade da igreja
+            ls$local_sepultura/na metade da igreja
             ls$loca_sepultura/altar de Santa/obs=Perto do altar
             ls$detalhes_sepultura/campa sarabulhenta
             rel$profissional/sergente/nome desconhecido/C7-070302
@@ -1236,7 +1236,7 @@ kleio$gacto2.str
       inscricao$aniverD15b/15/03/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 7 (p.202)/sumario=inscrição de Aniversário de Fernando Rodrigues, sepultado no altar de S. Lourenço no monumento alto.
 
          celebrado$Fernando Rodrigues/id=D15-1503
-            ls$loc_sepultura/altar de São Lourenço
+            ls$local_sepultura/altar de São Lourenço
             ls$detalhe_sepultura/Monumento alto
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-1503
@@ -1251,7 +1251,7 @@ kleio$gacto2.str
       inscricao$aniverE16b/16/03/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 7v (p.202)/sumario=inscrição de Aniversário de Maria Afonso mulher de Afonso Peres, peixeiro, sepultada na entrada do claustro.
 
          celebrada$Maria Afonso/id=E16-1603
-            ls$loc_sepultura/claustro/obs=Na entrada
+            ls$local_sepultura/claustro/obs=Na entrada
             ls$detalhes_sepultura/nos três monumentos da mão direita de cima
 
             referido$Afonso Peres/id=E16-1603-per1
@@ -1314,8 +1314,8 @@ kleio$gacto2.str
       inscricao$aniverB20b/20/03/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 7v (p.203)/sumario=inscrição de Aniversário de Maria domingues mulher que foi de domingos de Sandomil, sepultada contra a escada do coro a fundo na campa perto de uma campa branca.
 
          celebrada$Maria domingues/id=B20-2003
-            ls$loc_sepultura/escada do coro/obs=contra a escada a fundo, onde está o anjo/obs=também pode ser anigo
-            ls$loc_sepultura/metade da igreja/obs=junto com a poyal
+            ls$local_sepultura/escada do coro/obs=contra a escada a fundo, onde está o anjo/obs=também pode ser anigo
+            ls$local_sepultura/metade da igreja/obs=junto com a poyal
             ls$detalhes_sepultura/campa que há perto de uma campa branca
 
             referido$domingos de Sandomil/id=B20-2003-per1
@@ -1352,7 +1352,7 @@ kleio$gacto2.str
          celebrada$Marinha Bartolomeu da Zouparria/id=d22-2203
             ls$alcunha/da Zouparria
             ls$naturalidade/Zouparria
-            ls$loc_sepultura/escada do coro/obs=perto
+            ls$local_sepultura/escada do coro/obs=perto
 
          donatario$Aniversário de Marinha Bartolomeu da Zouparria/id=AN-2203
             atr$pagamento_Aniversário/30 soldos
@@ -1398,7 +1398,7 @@ kleio$gacto2.str
 
          celebrado$Martim Bravo/id=G25-2503
             ls$cargo/almoxarife
-            ls$loc_sepultura/altar de Santa Maria a Prenhe
+            ls$local_sepultura/altar de Santa Maria a Prenhe
             ls$detalhes_sepultura/No monumento da parede perto do altar
 
          donatario$Aniversário de Martim Bravo/id=AN-2503
@@ -1505,7 +1505,7 @@ kleio$gacto2.str
 
          celebrado$Pedro Juliães/id=G1-0104
             ls$cargo/almoxarife
-            ls$loc_sepultura/Santa Ana/obs=ante
+            ls$local_sepultura/Santa Ana/obs=ante
             ls$detalhes_sepultura/Na campa branca
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0104
@@ -1707,7 +1707,7 @@ kleio$gacto2.str
       inscricao$aniverF14/14/04/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 10 (p.204)/sumario=inscrição de Aniversário de Fernando Rodrigues, sepultado no altar de São Lourenço no monumento alto.
 
          celebrado$Fernando Rodrigues/id=F14-1404
-            ls$loc_sepultura/altar de São Lourenço/obs=Ante
+            ls$local_sepultura/altar de São Lourenço/obs=Ante
             ls$detalhes_sepultura/No monumento alto
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-1404
@@ -1981,7 +1981,7 @@ kleio$gacto2.str
 
          celebrada$domingas Peres/id=G29c-2904
             ls$profissao/Alfaiata
-            ls$loc_sepultura/Cemitério de São domingos
+            ls$local_sepultura/Cemitério de São domingos
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-2904
 
@@ -2100,8 +2100,8 @@ kleio$gacto2.str
          celebrado$Lopo Afonso/id=A7-0705
             ls$cargo/raçoeiro de Santiago de Coimbra
             ls$cargo/prior de Vale de Ermio
-            ls$loc_sepultura/no meio da igreja
-            ls$loc_sepultura/entre os Reis
+            ls$local_sepultura/no meio da igreja
+            ls$local_sepultura/entre os Reis
             ls$loca_sepultura/altar da Virgem Maria
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-0705
@@ -2198,7 +2198,7 @@ kleio$gacto2.str
       inscricao$aniverG13/13/05/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. A (p.206)/sumario=inscrição de Aniversário de Constança Peres, sepultada perto do altar de S. Urbano, por umas casas.
 
          celebrada$Constança Peres/id=G13-1305
-            ls$loc_sepultura/altar de São Urbano/obs=contra a parede da igreja
+            ls$local_sepultura/altar de São Urbano/obs=contra a parede da igreja
 
             referido$Afonso Martins/id=G13-130502
                rel$parentesco/marido/Constança Peres/G13-1305
@@ -2242,7 +2242,7 @@ kleio$gacto2.str
       inscricao$aniverB15/15/05/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. A (p.207)/sumario=inscrição de Aniversário de Fernando Rodrigues, ante o altar de S. Lourenço.
 
          celebrado$Fernando Rodrigues/id=B15-1505
-            ls$loc_sepultura/altar de São Lourenço
+            ls$local_sepultura/altar de São Lourenço
             ls$detalhes_sepultura/No monumento alto
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-1505
@@ -2300,7 +2300,7 @@ kleio$gacto2.str
       inscricao$aniverE18/18/05/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 12Av (p.207)/sumario=inscrição de Aniversário de Marinha Bartolomeu da Zouparria, sepultada perto da escada do coro.
 
          celebrada$Marinha Bartolomeu da Zouparria/id=E18-1805
-            ls$loc_sepultura/Escada do coro/obs=Perto
+            ls$local_sepultura/Escada do coro/obs=Perto
             ls$alcunha/da Zouparria
             ls$naturalidade/Zouparria
 
@@ -2365,7 +2365,7 @@ kleio$gacto2.str
             ls$cargo/chantre da Sé de Coimbra
             ls$naturalidade/Saint Gery
             ls$alcunha/de Saint Gery
-            ls$loc_sepultura/Sé de Coimbra
+            ls$local_sepultura/Sé de Coimbra
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-2105
 
@@ -2437,7 +2437,7 @@ kleio$gacto2.str
       inscricao$aniverE25/25/05/9999/Aniversário/loc=ANTT, CSTC, cx. 6, L2, fl. 13 (p.208)/sumario=inscrição de Aniversário de Maria Vaz, sepultada ante o cruzeiro na campa que tem a cruz.
 
          celebrada$Maria Vaz/obs=Viúva/id=E25-2505
-            ls$loc_sepultura/ante o cruzeiro
+            ls$local_sepultura/ante o cruzeiro
             ls$detalhe_sepultura/campa que tem a cruz
             ls$residencia/Coimbra
 
@@ -2454,7 +2454,7 @@ kleio$gacto2.str
 
          celebrado$Domingos Anes/id=F2605
             ls$cargo/almoxarife
-            ls$loc_sepultura/altar de São Urbano/obs=Perto
+            ls$local_sepultura/altar de São Urbano/obs=Perto
             ls$detalhes_sepultura/dentro na parede
 
             referido$domingos Lourenco/id=F26-2605
@@ -2540,7 +2540,7 @@ kleio$gacto2.str
          celebrado$Gonçalo Dias/id=D3105
             ls$titulo/clérigo de ordens menores
             ls$cargo/raçoeiro de Santiago de Coimbra
-            ls$loc_sepultura/reis Magos/obs=perto dos
+            ls$local_sepultura/reis Magos/obs=perto dos
             ls$detalhe_sepultura/campa branca
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-3105
@@ -6181,7 +6181,7 @@ kleio$gacto2.str
 
          celebrado$Martim Bravo/id=C26-2612
             ls$cargo/almoxarife
-            ls$loc_sepultura/altar de Santa Maria a Prenhe
+            ls$local_sepultura/altar de Santa Maria a Prenhe
             ls$detalhes_sepultura/No monumento dentro na parede/obs=Perto do altar
 
          donatario$Colegiada de Santiago Coimbra/id=CSTC-2612
@@ -6238,7 +6238,7 @@ kleio$gacto2.str
 
          celebrado$Martim Anes/id=F2912-2912
             ls$cargo/almoxarife
-            ls$loc_sepultura/claustro
+            ls$local_sepultura/claustro
 
          donatario$Colegiada de Santiago de Coimbra/id=CSTC-2912
 
