@@ -1,5 +1,5 @@
-KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
-26-6-2023 13-38
+KleioTranslator - server version 12.2 - build 560 (MHK: 2241/master) (2024-01-08 08:21:10, MHK: 09/01/2024 09:44 )
+12-1-2024 23-36
 
 Processing data file aniversarios_CSTC.cli
 -------------------------------------------
@@ -12,9 +12,8 @@ kleio translation started
 Structure: gacto2.str
 Prefix: 
 Autorel: 
-Translation count: 
+Translation count: 1
 Obs: 
-Translation count not set or invalid, counting as zero: 
 ** Processing source fonte$aniversarios_CSTC
 6: inscricao$aniverA1
 26: inscricao$aniverB2
@@ -222,8 +221,7 @@ Translation count not set or invalid, counting as zero:
 3573: inscricao$aniverB3107
 3591: inscricao$aniverC01
 
-WARNING: aniversarios_CSTC.cli line 3595 Element value exceeds database field length: sexo=C01-0108. Size:8 limit: 1
-Near lines: 3595          donatario$Aniversário de Pedro Juliaes/C01-0108/id=aniverC01-per1
+WARNING: aniversarios_CSTC.cli line 3596 Element value exceeds database field length: sexo=C01-0108. Size:8 limit: 1
 Near lines: 3596             atr$pagamento_Aniversário/40 soldos
 
 3604: inscricao$aniverD02
@@ -242,8 +240,7 @@ Near lines: 3596             atr$pagamento_Aniversário/40 soldos
 3815: inscricao$aniverC1308
 3834: inscricao$aniverD1408
 
-WARNING: aniversarios_CSTC.cli line 3843 Element value exceeds database field length: sexo=CSTC-1408. Size:9 limit: 1
-Near lines: 3843 
+WARNING: aniversarios_CSTC.cli line 3844 Element value exceeds database field length: sexo=CSTC-1408. Size:9 limit: 1
 Near lines: 3844          donatario$Aniversário de domingos Anes/id=AN-1408
 
 3854: inscricao$aniverE1508
@@ -259,8 +256,7 @@ Near lines: 3844          donatario$Aniversário de domingos Anes/id=AN-1408
 4037: inscricao$aniverA2508
 4050: inscricao$aniverB2608
 
-WARNING: aniversarios_CSTC.cli line 4055 Element value exceeds database field length: sexo=AN-2608. Size:7 limit: 1
-Near lines: 4055          donatario$Aniversário de Estevão Peres/AN-2608/id=aniverB2608-per1
+WARNING: aniversarios_CSTC.cli line 4056 Element value exceeds database field length: sexo=AN-2608. Size:7 limit: 1
 Near lines: 4056             atr$pagamento_Aniversário/40 soldos
 
 4065: inscricao$aniverC2708
@@ -390,10 +386,15 @@ Near lines: 4056             atr$pagamento_Aniversário/40 soldos
 *** End of File
 
 
-** Processed file- /kleio-home/sources/commerst/sources/aniversarios_CSTC.cli
-** Original file- /kleio-home/sources/commerst/sources/aniversarios_CSTC.org
-** Previous version- /kleio-home/sources/commerst/sources/aniversarios_CSTC.old
-** Temp file with ids- /kleio-home/sources/commerst/sources/aniversarios_CSTC.ids
+Structure file: /kleio-home/sources/COMMEMORtis_ST/structures/gacto2.str
+Structure processing report: /kleio-home/sources/COMMEMORtis_ST/structures/gacto2.srpt
+Structure in JSON: /kleio-home/sources/COMMEMORtis_ST/structures/gacto2.str.json
+
+Kleio file: /kleio-home/sources/COMMEMORtis_ST/sources/aniversarios_CSTC.cli
+Original file: /kleio-home/sources/COMMEMORtis_ST/sources/aniversarios_CSTC.org
+Previous version: /kleio-home/sources/COMMEMORtis_ST/sources/aniversarios_CSTC.old
+Temp file with ids: /kleio-home/sources/COMMEMORtis_ST/sources/aniversarios_CSTC.ids
+** - /kleio-home/sources/COMMEMORtis_ST/sources/aniversarios_CSTC.cli-renamed to- /kleio-home/sources/COMMEMORtis_ST/sources/aniversarios_CSTC.old
 0  errors. 
 3  warnings.
 Translation finished.
